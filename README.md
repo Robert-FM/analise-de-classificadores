@@ -1,4 +1,4 @@
-# Nome + link (GitHub, Vercel, etc.) 
+Análise de Classificadores
 # Stack usada 
 Python, Pandas, Numpy, Matplotlib, Jupyter Notebook, Scikit-learn.
 # Descrição breve 
